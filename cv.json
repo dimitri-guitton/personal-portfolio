@@ -1,0 +1,296 @@
+{
+    "basics": {
+        "name": "Dimitri Guitton",
+        "label": "Developeur Full Stack",
+        "image": "/me_avatar.svg",
+        "email": "dimitri.guitton.dev@gmail.com",
+        "phone": "+33 6 46 22 82 80",
+        "url": "https://www.pxl-dev.com/",
+        "summary": "Développeur web full-stack, spécialiste du back-end avec PHP (Symfony). Maîtrise du développement front-end avec JavaScript (React, Vue.js). Orienté résultat, je m'assure de la qualité du code et de la performance des applications. Collaboratif et minutieux dans mon travail.",
+        "theme": "blue",
+        "location": {
+            "address": "",
+            "postalCode": "85200",
+            "city": "Fontenay-le-Comte",
+            "countryCode": "FR",
+            "region": "France"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "dimitri-guitton",
+                "url": "https://linkedin.com/in/dimitri-guitton"
+            },
+            {
+                "network": "GitHub",
+                "username": "d-loki",
+                "url": "https://github.com/d-loki"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "PXL DEV",
+            "position": "Développeur Freelance",
+            "location_type": "À distance",
+            "location": "France",
+            "startDate": "2019-04-01",
+            "endDate": null,
+            "summary": "Création de sites web et d'applications sur mesure pour les entreprises, en mettant l'accent sur la qualité du code et la performance.",
+            "highlights": [
+                "Développement de sites web et d'applications sur mesure"
+            ],
+            "responsibilities": [
+                "Développement de sites web et d'applications sur mesure",
+                "Optimisation de la performance des applications",
+                "Collaboration avec les clients pour définir les besoins et les objectifs",
+                "Compréhension des enjeux métier pour proposer des solutions adaptées"
+            ],
+            "achievements": [
+                "Création de multiples sites web et applications pour des clients satisfaits"
+            ],
+            "skills": [
+                "Symfony",
+                "React",
+                "Vue.js",
+                "SQL",
+                "Git"
+            ]
+        },
+        {
+            "name": "6NAPPS",
+            "position": "Developeur Web et Mobile",
+            "location_type": "À distance",
+            "location": "Niort, France",
+            "url": "https://mytroupe.com/",
+            "startDate": "2018-09-01",
+            "endDate": "2019-04-01",
+            "summary": "Agence web spécialisée dans le développement de sites web et d'applications mobiles",
+            "highlights": [
+                "Développement de sites web et d'applications mobiles"
+            ],
+            "responsibilities": [
+                "Développement de back-end avec PHP (Symfony)",
+                "Création d'API REST pour les applications mobiles",
+                "Création d'applications mobiles avec React Native"
+            ],
+            "achievements": [
+                "Mise en ligne de plusieurs applications pour les clients"
+            ],
+            "skills": [
+                "Symfony",
+                "React Native",
+                "JavaScript",
+                "SQL",
+                "Git"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Licence professionnelle Informatique et Répartie Mobile",
+            "url": "https://www.iut-larochelle.fr/",
+            "area": "Informatique",
+            "studyType": "Licence professionnelle",
+            "startDate": "2018-09-01",
+            "endDate": "2019-07-01"
+        },
+        {
+            "institution": "DUT Informatique",
+            "url": "https://www.iut-larochelle.fr/",
+            "area": "Informatique",
+            "studyType": "DUT",
+            "startDate": "2016-09-01",
+            "endDate": "2018-07-01"
+        }
+    ],
+    "certificates": [],
+    "skills": [
+        {
+            "name": "Symfony",
+            "level": "Expert",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Back-end",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "HTML",
+            "level": "Expert",
+            "keywords": [
+                "Développement Web",
+                "Front-end"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Expert",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Conception adaptative"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Expert",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Back-end",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Framework CSS",
+                "Conception adaptative"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Back-end",
+                "Surensemble de JavaScript"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Développement Web",
+                "Back-end",
+                "JavaScript",
+                "Serveur"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Bases de données",
+                "SQL",
+                "Stockage de données",
+                "Back-end"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Expert",
+            "keywords": [
+                "Contrôle de version",
+                "Collaboration",
+                "Code source"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Débutant",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Framework React",
+                "Rendu côté serveur",
+                "Génération statique"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Intermédiaire",
+            "keywords": [
+                "Développement Web",
+                "Front-end",
+                "Bibliothèque JavaScript",
+                "Interface utilisateur"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Français",
+            "fluency": "Langue maternelle"
+        },
+        {
+            "language": "Anglais",
+            "fluency": "Professionnel"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "Portfolio personnel",
+            "isActive": true,
+            "description": "Site web personnel pour présenter mes compétences et mes projets.",
+            "highlights": [
+                "Conçu avec React et Tailwind CSS"
+            ],
+            "url": "https://www.pxl-dev.com/",
+            "github": "https://github.com/d-loki"
+        },
+        {
+            "name": "SaaS MyTroupe",
+            "isActive": true,
+            "description": "Création d'un SaaS pour la gestion de troupes de théâtre",
+            "highlights": [
+                "Développé avec Symfony",
+                "Gestion des membres et des spectacles",
+                "Gestion des cotisations et des paiements"
+            ],
+            "url": "https://mytroupe.com/"
+        },
+        {
+            "name": "SaaS Developpe Tes Ventes",
+            "isActive": true,
+            "description": "Développement d'une application SaaS pour créer des sites web B2B personnalisés",
+            "highlights": [
+                "Migration de Symfony 2 à Symfony 5",
+                "Gestion des utilisateurs et des abonnements",
+                "Plus de 120 plateformes créées"
+            ],
+            "url": "https://37deux.com/"
+        },
+        {
+            "name": "ERP FRENE",
+            "isActive": false,
+            "description": "Création d'un tableau de bord pour centraliser les données des associations en France",
+            "highlights": [
+                "Collecte, analyse et visualisation des données",
+                "Utilisé par plus de 100 associations, dans toute la France"
+            ],
+            "url": "https://ecommerce.com"
+        },
+        {
+            "name": "DCI Eco Atlantique",
+            "isActive": false,
+            "description": "Création d'une application multiplateforme (Mac/Windows) pour générer des devis complexes.",
+            "highlights": [
+                "Intégration avec un ERP pour synchronisation en temps réel des données",
+                "Sélection intelligente de produits",
+                "Calculs automatisés",
+                "Génération de documents"
+            ],
+            "url": "https://ecommerce.com"
+        },
+        {
+            "name": "UmeJObs",
+            "isActive": false,
+            "description": "Application mobile pour la mise en relation rapide entre professionnels de la restauration et candidats",
+            "highlights": [
+                "Application mobile iOS et Android",
+                "Géolocalisation, notifications en temps réel, messagerie instantanée",
+                "Gestion des candidatures et des offres d'emploi"
+            ],
+            "url": "https://ecommerce.com"
+        }
+    ]
+}
