@@ -19,6 +19,9 @@ import Flutter from "@/icons/flutter.astro";
 import Figma from "@/icons/Figma.astro";
 import Gitlab from "@/icons/Gitlab.astro";
 import Symfony from "@/icons/Symfony.astro";
+import PHP from "@/icons/PHP.astro";
+import JAVA from "@/icons/Java.astro";
+import SpringBoot from "@/icons/SpringBoot.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
 	HTML,
@@ -39,6 +42,9 @@ const SKILLS_ICONS: Record<string, any> = {
 	Figma,
 	Gitlab,
 	Symfony,
+	PHP,
+	JAVA,
+	SpringBoot
 };
 ---
 
@@ -46,7 +52,8 @@ const SKILLS_ICONS: Record<string, any> = {
 	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
 		{
 			skills.map(({ name }) => {
-				const iconName = name === "Next.js" ? "Next" : name;
+				let iconName = name === "Next.js" ? "Next" : name;
+				iconName = iconName === "Spring Boot" ? "SpringBoot" : iconName;
 				const Icon = SKILLS_ICONS[iconName];
 
 				return (
